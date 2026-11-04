@@ -1,0 +1,32 @@
+* {
+    padding: 0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(23, 1, 1);
+    background: linear-gradient(rgb(181, 60, 46), white)
+
+}
+
+h1 {
+    padding: 1rem;
+    margin: 1rem auto;
+}
+
+.sub-title {
+    padding: 1rem;
+    margin: 1rem auto;
+}
+
+section {
+    padding: 1rem;
+    margin: 1rem auto;
+}
+
+footer {
+    padding: 1rem;
+    margin: 1rem auto;
+}
